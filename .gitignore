@@ -1,0 +1,17 @@
+# .gitignore 내용 예시
+# 영상 파일
+*.mp4
+*.avi
+
+# 모델 저장 파일
+*.pkl
+
+# Python 가상환경
+.venv/
+__pycache__/
+
+# 데이터셋
+*.csv
+
+# PyCharm 등 IDE 설정
+.idea/
